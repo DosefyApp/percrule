@@ -1,6 +1,11 @@
 {
   "redirects": [
     {
+      "source": "/",
+      "destination": "https://www.dosefy.com.br/app/calculadoras/percrule",
+      "permanent": true
+    },
+    {
       "source": "/:path*",
       "destination": "https://www.dosefy.com.br/app/calculadoras/percrule",
       "permanent": true
